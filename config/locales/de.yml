@@ -4,3 +4,5 @@ de:
   label_graphs_old_issues: Offene alternde Tickets
   label_graphs_issue_growth: Total Tickets
   label_graphs_issue_status_flow: Statusänderungen (letzte 24 Stunden)
+  label_graphs_assigned_to_status_flow: Änderungen Zuweisung (letzte 24 Stunden)
+  warning_no_issues: Keine Tickets vorhanden für den Graphen.

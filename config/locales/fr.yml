@@ -4,3 +4,5 @@ fr:
   label_graphs_old_issues: Age des demandes
   label_graphs_issue_growth: Total des demandes
   label_graphs_issue_status_flow: Changements récents (dans les dernières 24 heures)
+  label_graphs_assigned_to_status_flow: Changements récents d'assigné (dans les dernières 24 heures)
+  warning_no_issues: Sans demandes pas de graphe.
